@@ -1,4 +1,4 @@
-module github.com/j3ssie/durl
+module github.com/Nishantbhagat57/durl
 
 go 1.22.1
 
