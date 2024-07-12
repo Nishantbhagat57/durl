@@ -130,7 +130,7 @@ func IsBlackList(raw string) bool {
 		return true
 	}
 
-	noiseContent := `/(articles|about|blog|event|events|shop|post|posts|product|products|docs|support|pages|media|careers|jobs|video|videos|resource|resources)/.*`
+	noiseContent := `/(articles|about|blog|careers|jobs)/.*`
 	if RegexCheck(noiseContent, raw) {
 		return true
 	}
