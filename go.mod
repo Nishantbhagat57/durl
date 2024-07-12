@@ -1,4 +1,4 @@
-module github.com/Nishantbhagat57/durl
+module github.com/Nishantbhagat57/durl2
 
 go 1.22.1
 
